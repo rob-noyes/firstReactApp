@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rob-noyes/task-App-React/static/css/main.901ba4b4.chunk.css",
+    "main.js": "/rob-noyes/task-App-React/static/js/main.80cac197.chunk.js",
+    "main.js.map": "/rob-noyes/task-App-React/static/js/main.80cac197.chunk.js.map",
+    "runtime-main.js": "/rob-noyes/task-App-React/static/js/runtime-main.3383efee.js",
+    "runtime-main.js.map": "/rob-noyes/task-App-React/static/js/runtime-main.3383efee.js.map",
+    "static/js/2.da83a8c7.chunk.js": "/rob-noyes/task-App-React/static/js/2.da83a8c7.chunk.js",
+    "static/js/2.da83a8c7.chunk.js.map": "/rob-noyes/task-App-React/static/js/2.da83a8c7.chunk.js.map",
+    "static/js/3.c5ef57b0.chunk.js": "/rob-noyes/task-App-React/static/js/3.c5ef57b0.chunk.js",
+    "static/js/3.c5ef57b0.chunk.js.map": "/rob-noyes/task-App-React/static/js/3.c5ef57b0.chunk.js.map",
+    "index.html": "/rob-noyes/task-App-React/index.html",
+    "static/css/main.901ba4b4.chunk.css.map": "/rob-noyes/task-App-React/static/css/main.901ba4b4.chunk.css.map",
+    "static/js/2.da83a8c7.chunk.js.LICENSE.txt": "/rob-noyes/task-App-React/static/js/2.da83a8c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3383efee.js",
+    "static/js/2.da83a8c7.chunk.js",
+    "static/css/main.901ba4b4.chunk.css",
+    "static/js/main.80cac197.chunk.js"
+  ]
+}
